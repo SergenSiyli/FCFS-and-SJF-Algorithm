@@ -1,0 +1,51 @@
+c:\users\kernel\documents\visual studio 2015\Projects\Operatin_System\Operatin_System\bin\Debug\Operatin_System.exe.config
+c:\users\kernel\documents\visual studio 2015\Projects\Operatin_System\Operatin_System\bin\Debug\Operatin_System.exe
+c:\users\kernel\documents\visual studio 2015\Projects\Operatin_System\Operatin_System\bin\Debug\Operatin_System.pdb
+c:\users\kernel\documents\visual studio 2015\Projects\Operatin_System\Operatin_System\obj\Debug\Operatin_System.csprojResolveAssemblyReference.cache
+c:\users\kernel\documents\visual studio 2015\Projects\Operatin_System\Operatin_System\obj\Debug\Operatin_System.Form1.resources
+c:\users\kernel\documents\visual studio 2015\Projects\Operatin_System\Operatin_System\obj\Debug\Operatin_System.Properties.Resources.resources
+c:\users\kernel\documents\visual studio 2015\Projects\Operatin_System\Operatin_System\obj\Debug\Operatin_System.csproj.GenerateResource.Cache
+c:\users\kernel\documents\visual studio 2015\Projects\Operatin_System\Operatin_System\obj\Debug\Operatin_System.exe
+c:\users\kernel\documents\visual studio 2015\Projects\Operatin_System\Operatin_System\obj\Debug\Operatin_System.pdb
+C:\Users\savas\Desktop\Operatin_System\Operatin_System\bin\Debug\Operatin_System.exe.config
+C:\Users\savas\Desktop\Operatin_System\Operatin_System\obj\Debug\Operatin_System.exe
+C:\Users\savas\Desktop\Operatin_System\Operatin_System\obj\Debug\Operatin_System.pdb
+C:\Users\savas\Desktop\Operatin_System\Operatin_System\bin\Debug\Operatin_System.exe
+C:\Users\savas\Desktop\Operatin_System\Operatin_System\bin\Debug\Operatin_System.pdb
+C:\Users\savas\Desktop\Operatin_System\Operatin_System\obj\Debug\Operatin_System.csprojResolveAssemblyReference.cache
+C:\Users\savas\Desktop\Operatin_System\Operatin_System\obj\Debug\Operatin_System.Form1.resources
+C:\Users\savas\Desktop\Operatin_System\Operatin_System\obj\Debug\Operatin_System.Properties.Resources.resources
+C:\Users\savas\Desktop\Operatin_System\Operatin_System\obj\Debug\Operatin_System.csproj.GenerateResource.Cache
+G:\isletim son gün\Op_END\Operatin_System\bin\Debug\Operatin_System.exe.config
+G:\isletim son gün\Op_END\Operatin_System\obj\Debug\Operatin_System.exe
+G:\isletim son gün\Op_END\Operatin_System\obj\Debug\Operatin_System.pdb
+C:\Users\Kernel\Desktop\Op_END\Operatin_System\bin\Debug\Operatin_System.exe.config
+C:\Users\Kernel\Desktop\Op_END\Operatin_System\obj\Debug\Operatin_System.exe
+C:\Users\Kernel\Desktop\Op_END\Operatin_System\obj\Debug\Operatin_System.pdb
+C:\Users\Kernel\Desktop\Op_END\Operatin_System\bin\Debug\Operatin_System.exe
+C:\Users\Kernel\Desktop\Op_END\Operatin_System\bin\Debug\Operatin_System.pdb
+C:\Users\Kernel\Desktop\Op_END\Operatin_System\obj\Debug\Operatin_System.csprojResolveAssemblyReference.cache
+C:\Users\Kernel\Desktop\Op_END\Operatin_System\obj\Debug\Operatin_System.Form1.resources
+C:\Users\Kernel\Desktop\Op_END\Operatin_System\obj\Debug\Operatin_System.Properties.Resources.resources
+C:\Users\Kernel\Desktop\Op_END\Operatin_System\obj\Debug\Operatin_System.csproj.GenerateResource.Cache
+C:\Users\Kernel\Desktop\this_is_last\Operatin_System\bin\Debug\Operatin_System.exe.config
+C:\Users\Kernel\Desktop\this_is_last\Operatin_System\obj\Debug\Operatin_System.exe
+C:\Users\Kernel\Desktop\this_is_last\Operatin_System\obj\Debug\Operatin_System.pdb
+C:\Users\Kernel\Desktop\this_is_last\Operatin_System\bin\Debug\Operatin_System.exe
+C:\Users\Kernel\Desktop\this_is_last\Operatin_System\bin\Debug\Operatin_System.pdb
+C:\Users\Kernel\Desktop\this_is_last\Operatin_System\obj\Debug\Operatin_System.csprojResolveAssemblyReference.cache
+C:\Users\Kernel\Desktop\this_is_last\Operatin_System\obj\Debug\Operatin_System.Form1.resources
+C:\Users\Kernel\Desktop\this_is_last\Operatin_System\obj\Debug\Operatin_System.Properties.Resources.resources
+C:\Users\Kernel\Desktop\this_is_last\Operatin_System\obj\Debug\Operatin_System.csproj.GenerateResource.Cache
+C:\Users\SERGEN\Desktop\this_is_last\Operatin_System\bin\Debug\Operatin_System.exe.config
+C:\Users\SERGEN\Desktop\this_is_last\Operatin_System\obj\Debug\Operatin_System.exe
+C:\Users\SERGEN\Desktop\this_is_last\Operatin_System\obj\Debug\Operatin_System.pdb
+C:\Users\SERGEN\Desktop\this_is_last\Operatin_System\bin\Debug\Operatin_System.exe
+C:\Users\SERGEN\Desktop\this_is_last\Operatin_System\bin\Debug\Operatin_System.pdb
+C:\Users\SERGEN\Desktop\this_is_last\Operatin_System\obj\Debug\Operatin_System.csprojResolveAssemblyReference.cache
+C:\Users\SERGEN\Desktop\this_is_last\Operatin_System\obj\Debug\Operatin_System.Form1.resources
+C:\Users\SERGEN\Desktop\this_is_last\Operatin_System\obj\Debug\Operatin_System.Properties.Resources.resources
+C:\Users\SERGEN\Desktop\this_is_last\Operatin_System\obj\Debug\Operatin_System.csproj.GenerateResource.Cache
+C:\Users\SERGEN\Desktop\Dosyalar\2016Bahar\İşletim Sistemleri\this_is_last\Operatin_System\bin\Debug\Operatin_System.exe.config
+C:\Users\SERGEN\Desktop\Dosyalar\2016Bahar\İşletim Sistemleri\this_is_last\Operatin_System\obj\Debug\Operatin_System.exe
+C:\Users\SERGEN\Desktop\Dosyalar\2016Bahar\İşletim Sistemleri\this_is_last\Operatin_System\obj\Debug\Operatin_System.pdb
